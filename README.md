@@ -22,7 +22,7 @@
 
 * **Comprehensive Weather Information**: Provides detailed information including current temperature, daily minimum and maximum temperatures,
 feels-like temperature, wind-speed, probability of precipitation, humidity in the air, sunrise and sunset timings at the current/searched location
-for a given day.
+of a given day.
 
 ## 📡 APIs Used
 
