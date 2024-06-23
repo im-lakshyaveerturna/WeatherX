@@ -1,7 +1,7 @@
 import 'package:finalweather/theme/theme.dart';
 import 'package:flutter/material.dart';
 import 'package:finalweather/pages/home.dart';
-import 'package:finalweather/errorpage.dart';
+import 'package:finalweather/pages/errorpage.dart';
 import 'package:provider/provider.dart';
 import 'package:finalweather/pages/weather_data.dart';
 import 'package:finalweather/theme/thememanager.dart';

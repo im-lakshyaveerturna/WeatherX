@@ -347,33 +347,33 @@ class _HomeState extends State<Home> {
                     ),
 
                   if (currentData['days'] != null)
-                  Column(
-                    mainAxisAlignment: MainAxisAlignment.center,
-                    children: List.generate(currentData['days'].length, (index) {
-                      return Container(
-                        decoration: BoxDecoration(
-                          borderRadius: BorderRadius.circular(13),
-                          gradient: LinearGradient(
-                            colors: [Colors.blue, Colors.white],
-                            begin: Alignment.topCenter,
-                            end: Alignment.bottomCenter,
+                    Column(
+                      mainAxisAlignment: MainAxisAlignment.center,
+                      children: List.generate(currentData['days'].length, (index) {
+                        return Container(
+                          decoration: BoxDecoration(
+                            borderRadius: BorderRadius.circular(13),
+                            gradient: LinearGradient(
+                              colors: [Colors.blue, Colors.white],
+                              begin: Alignment.topCenter,
+                              end: Alignment.bottomCenter,
+                            ),
                           ),
-                        ),
-                        child: Card(
-                          color: Colors.transparent,
-                          child: InkWell(
-                            onTap: () {
-                              setState(() {
-                                day += 1;
-                                indexx = index;
+                          child: Card(
+                            color: Colors.transparent,
+                            child: InkWell(
+                              onTap: () {
+                                setState(() {
+                                  day += 1;
+                                  indexx = index;
 
-                              });
-                            },
+                                });
+                              },
 
-                            child: ListTile(
-                              title: Text('${currentData['days'][index]['datetime']}', style: TextStyle(color: Colors.white)),
-                              subtitle: Text('${((currentData['days'][index]['temp'] - 32) * 5 / 9).round()} °C', style: TextStyle(color: Colors.white)),
-                              leading: Column(
+                              child: ListTile(
+                                title: Text('${currentData['days'][index]['datetime']}', style: TextStyle(color: Colors.white)),
+                                subtitle: Text('${((currentData['days'][index]['temp'] - 32) * 5 / 9).round()} °C', style: TextStyle(color: Colors.white)),
+                                leading: Column(
                                   mainAxisAlignment: MainAxisAlignment.center,
                                   children: [
                                     if (currentData['days'][index]['cloudcover'] > 50 && weatherData.weatherInfo['days'][index]['precipprob'] < 40)
@@ -385,16 +385,16 @@ class _HomeState extends State<Home> {
 
                                     if (currentData['days'][index]['precipprob'] >= 40)
                                       FaIcon(FontAwesomeIcons.cloudRain, color: Colors.white60),
-                      ],
-                      ),
+                                  ],
+                                ),
 
-                      ),
+                              ),
+                            ),
                           ),
-                        ),
-                      );
-                    }
+                        );
+                      }
+                      ),
                     ),
-                  ),
                 ],
               ),
             ),
@@ -416,11 +416,11 @@ class _HomeState extends State<Home> {
       print('Error fetching weather data: $e');
     }
 
-      if (!weatherData.error) {
-        Navigator.pushNamed(context, '/weather_data', arguments: value);
-      } else {
-        Navigator.pushNamed(context, '/errorpage', arguments: {'isLoading': isLoading});
-      }
+    if (!weatherData.error) {
+      Navigator.pushNamed(context, '/weather_data', arguments: value);
+    } else {
+      Navigator.pushNamed(context, '/errorpage', arguments: {'isLoading': isLoading});
     }
   }
+}
 

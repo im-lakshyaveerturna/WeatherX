@@ -4,7 +4,7 @@
             "outputFile": "com.example.weatherproject.app-mergeDebugResources-9:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/Users/lakshyaveerturna/apps/weatherproject/android/app/src/main/res/values-night/styles.xml",
+                    "source": "/Users/lakshyaveerturna/githubdrive/WeatherX/WeatherX/android/app/src/main/res/values-night/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",

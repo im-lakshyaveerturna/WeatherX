@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 application
-INJECTED from /Users/lakshyaveerturna/apps/weatherproject/android/app/src/main/AndroidManifest.xml:2:5-32:19
+INJECTED from /Users/lakshyaveerturna/githubdrive/WeatherX/WeatherX/android/app/src/main/AndroidManifest.xml:2:5-32:19
 MERGED from [androidx.window:window:1.0.0-beta04] /Users/lakshyaveerturna/.gradle/caches/transforms-3/076eb9235982ee06112d76594ea8585f/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
 MERGED from [androidx.window:window:1.0.0-beta04] /Users/lakshyaveerturna/.gradle/caches/transforms-3/076eb9235982ee06112d76594ea8585f/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
 MERGED from [androidx.core:core:1.6.0] /Users/lakshyaveerturna/.gradle/caches/transforms-3/d08c73bfb05384f2e52578171dbd141e/transformed/core-1.6.0/AndroidManifest.xml:24:5-89
@@ -10,13 +10,13 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/laks
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.6.0] /Users/lakshyaveerturna/.gradle/caches/transforms-3/d08c73bfb05384f2e52578171dbd141e/transformed/core-1.6.0/AndroidManifest.xml:24:18-86
 	android:name
-		INJECTED from /Users/lakshyaveerturna/apps/weatherproject/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/lakshyaveerturna/githubdrive/WeatherX/WeatherX/android/app/src/main/AndroidManifest.xml
 manifest
-ADDED from /Users/lakshyaveerturna/apps/weatherproject/android/app/src/main/AndroidManifest.xml:1:1-33:12
-INJECTED from /Users/lakshyaveerturna/apps/weatherproject/android/app/src/main/AndroidManifest.xml:1:1-33:12
-INJECTED from /Users/lakshyaveerturna/apps/weatherproject/android/app/src/main/AndroidManifest.xml:1:1-33:12
-INJECTED from /Users/lakshyaveerturna/apps/weatherproject/android/app/src/main/AndroidManifest.xml:1:1-33:12
-MERGED from /Users/lakshyaveerturna/apps/weatherproject/android/app/src/main/AndroidManifest.xml:1:1-33:12
+ADDED from /Users/lakshyaveerturna/githubdrive/WeatherX/WeatherX/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /Users/lakshyaveerturna/githubdrive/WeatherX/WeatherX/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /Users/lakshyaveerturna/githubdrive/WeatherX/WeatherX/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /Users/lakshyaveerturna/githubdrive/WeatherX/WeatherX/android/app/src/main/AndroidManifest.xml:1:1-33:12
+MERGED from /Users/lakshyaveerturna/githubdrive/WeatherX/WeatherX/android/app/src/main/AndroidManifest.xml:1:1-33:12
 MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/lakshyaveerturna/.gradle/caches/transforms-3/99750bb863b6fe460a7b5da8686e778d/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:17:1-23:12
 MERGED from [androidx.window:window:1.0.0-beta04] /Users/lakshyaveerturna/.gradle/caches/transforms-3/076eb9235982ee06112d76594ea8585f/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:17:1-33:12
 MERGED from [androidx.fragment:fragment:1.1.0] /Users/lakshyaveerturna/.gradle/caches/transforms-3/bd3b08f2286d6f234db7d387c15cb207/transformed/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
@@ -34,27 +34,27 @@ MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/lakshyaveerturna/.gra
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/lakshyaveerturna/.gradle/caches/transforms-3/d13d741118ebfe4050ba6eb92d0b644c/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/lakshyaveerturna/.gradle/caches/transforms-3/e1d8c2bc91e7b6cf427c9a8e7753caca/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/lakshyaveerturna/.gradle/caches/transforms-3/02315cc9f75263553d2042718fc375ee/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
-INJECTED from /Users/lakshyaveerturna/apps/weatherproject/android/app/src/debug/AndroidManifest.xml:1:1-7:12
-INJECTED from /Users/lakshyaveerturna/apps/weatherproject/android/app/src/debug/AndroidManifest.xml:1:1-7:12
-INJECTED from /Users/lakshyaveerturna/apps/weatherproject/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/lakshyaveerturna/githubdrive/WeatherX/WeatherX/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/lakshyaveerturna/githubdrive/WeatherX/WeatherX/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/lakshyaveerturna/githubdrive/WeatherX/WeatherX/android/app/src/debug/AndroidManifest.xml:1:1-7:12
 	package
-		INJECTED from /Users/lakshyaveerturna/apps/weatherproject/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/lakshyaveerturna/apps/weatherproject/android/app/src/main/AndroidManifest.xml:1:1-33:12
-		INJECTED from /Users/lakshyaveerturna/apps/weatherproject/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/lakshyaveerturna/githubdrive/WeatherX/WeatherX/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/lakshyaveerturna/githubdrive/WeatherX/WeatherX/android/app/src/main/AndroidManifest.xml:1:1-33:12
+		INJECTED from /Users/lakshyaveerturna/githubdrive/WeatherX/WeatherX/android/app/src/debug/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/lakshyaveerturna/apps/weatherproject/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/lakshyaveerturna/apps/weatherproject/android/app/src/main/AndroidManifest.xml:1:1-33:12
-		INJECTED from /Users/lakshyaveerturna/apps/weatherproject/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/lakshyaveerturna/githubdrive/WeatherX/WeatherX/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/lakshyaveerturna/githubdrive/WeatherX/WeatherX/android/app/src/main/AndroidManifest.xml:1:1-33:12
+		INJECTED from /Users/lakshyaveerturna/githubdrive/WeatherX/WeatherX/android/app/src/debug/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /Users/lakshyaveerturna/apps/weatherproject/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/lakshyaveerturna/apps/weatherproject/android/app/src/main/AndroidManifest.xml:1:1-33:12
-		INJECTED from /Users/lakshyaveerturna/apps/weatherproject/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/lakshyaveerturna/githubdrive/WeatherX/WeatherX/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/lakshyaveerturna/githubdrive/WeatherX/WeatherX/android/app/src/main/AndroidManifest.xml:1:1-33:12
+		INJECTED from /Users/lakshyaveerturna/githubdrive/WeatherX/WeatherX/android/app/src/debug/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/lakshyaveerturna/apps/weatherproject/android/app/src/main/AndroidManifest.xml:1:11-69
+		ADDED from /Users/lakshyaveerturna/githubdrive/WeatherX/WeatherX/android/app/src/main/AndroidManifest.xml:1:11-69
 uses-sdk
-INJECTED from /Users/lakshyaveerturna/apps/weatherproject/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/lakshyaveerturna/apps/weatherproject/android/app/src/main/AndroidManifest.xml
-INJECTED from /Users/lakshyaveerturna/apps/weatherproject/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/lakshyaveerturna/githubdrive/WeatherX/WeatherX/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/lakshyaveerturna/githubdrive/WeatherX/WeatherX/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/lakshyaveerturna/githubdrive/WeatherX/WeatherX/android/app/src/main/AndroidManifest.xml
 MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/lakshyaveerturna/.gradle/caches/transforms-3/99750bb863b6fe460a7b5da8686e778d/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
 MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/lakshyaveerturna/.gradle/caches/transforms-3/99750bb863b6fe460a7b5da8686e778d/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
 MERGED from [androidx.window:window:1.0.0-beta04] /Users/lakshyaveerturna/.gradle/caches/transforms-3/076eb9235982ee06112d76594ea8585f/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
@@ -89,18 +89,18 @@ MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/lakshyaveertur
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/lakshyaveerturna/.gradle/caches/transforms-3/e1d8c2bc91e7b6cf427c9a8e7753caca/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/lakshyaveerturna/.gradle/caches/transforms-3/02315cc9f75263553d2042718fc375ee/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/lakshyaveerturna/.gradle/caches/transforms-3/02315cc9f75263553d2042718fc375ee/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
-INJECTED from /Users/lakshyaveerturna/apps/weatherproject/android/app/src/debug/AndroidManifest.xml
-INJECTED from /Users/lakshyaveerturna/apps/weatherproject/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/lakshyaveerturna/githubdrive/WeatherX/WeatherX/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/lakshyaveerturna/githubdrive/WeatherX/WeatherX/android/app/src/debug/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/lakshyaveerturna/apps/weatherproject/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/lakshyaveerturna/apps/weatherproject/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/lakshyaveerturna/githubdrive/WeatherX/WeatherX/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/lakshyaveerturna/githubdrive/WeatherX/WeatherX/android/app/src/debug/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/lakshyaveerturna/apps/weatherproject/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/lakshyaveerturna/apps/weatherproject/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/lakshyaveerturna/githubdrive/WeatherX/WeatherX/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/lakshyaveerturna/githubdrive/WeatherX/WeatherX/android/app/src/debug/AndroidManifest.xml
 uses-permission#android.permission.INTERNET
-ADDED from /Users/lakshyaveerturna/apps/weatherproject/android/app/src/debug/AndroidManifest.xml:6:5-66
+ADDED from /Users/lakshyaveerturna/githubdrive/WeatherX/WeatherX/android/app/src/debug/AndroidManifest.xml:6:5-66
 	android:name
-		ADDED from /Users/lakshyaveerturna/apps/weatherproject/android/app/src/debug/AndroidManifest.xml:6:22-64
+		ADDED from /Users/lakshyaveerturna/githubdrive/WeatherX/WeatherX/android/app/src/debug/AndroidManifest.xml:6:22-64
 uses-library#androidx.window.extensions
 ADDED from [androidx.window:window:1.0.0-beta04] /Users/lakshyaveerturna/.gradle/caches/transforms-3/076eb9235982ee06112d76594ea8585f/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
 	android:required
