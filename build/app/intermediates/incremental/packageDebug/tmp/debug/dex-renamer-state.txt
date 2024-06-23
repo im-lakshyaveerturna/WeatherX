@@ -1,0 +1,4 @@
+#Sun Jun 23 10:36:41 IST 2024
+base.0=/Users/lakshyaveerturna/apps/weatherproject/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
