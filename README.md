@@ -13,7 +13,7 @@
 
 ## 📌 Key Features
 
-* **Current Weather**: Tracks your current location, to display accurate weather data of that location at the home page.
+* **Current Weather**: Displays accurate weather data of your current location on the home page.
 
 * **Search Functionality**: Easily search for weather data of specific locations using the integrated search bar.
 
