@@ -66,7 +66,7 @@ class _WeatherDState extends State<WeatherD> {
       body: Container(
         decoration: BoxDecoration(
           image: DecorationImage(
-            image: AssetImage('images/${isLoading ? 'loading.jpeg' : 'skyblue.png'}'),
+            image: AssetImage('images/skyblue.png'),
             fit: BoxFit.fill,
           ),
         ),

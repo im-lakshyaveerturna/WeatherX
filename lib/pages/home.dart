@@ -34,7 +34,7 @@ class _HomeState extends State<Home> {
     await location.fetchData();
     try {
       print(location.currentLocation);
-      await weatherData.getValue(location.currentLocation);
+      await weatherData.getValue('delhi');
       setState(() {
         currentData = weatherData.weatherInfo;
         isLoading = false;
@@ -51,7 +51,7 @@ class _HomeState extends State<Home> {
       body: Container(
         decoration: BoxDecoration(
           image: DecorationImage(
-            image: AssetImage('images/${isLoading ? 'loading.jpeg' : 'skyblue.png'}'),
+            image: AssetImage('images/skyblue.png'),
             fit: BoxFit.fill,
           ),
         ),
