@@ -34,3 +34,5 @@ Home Page             |               Change Dates                |             
 * This project was primarily a learning exercise aimed at enhancing my Flutter and Dart skills. Consequently, the code may not represent the best possible
   implementation of the app.
 
+##
+[Licensed by MIT](https://github.com/im-lakshyaveerturna/WeatherX/blob/main/LICENSE)
