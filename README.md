@@ -36,7 +36,7 @@ Home Page             |               Change Dates                |             
 :-------------------:|:-----------------------------------------:|:--------------------------------------------:|:----------------------:
 <img src="preview/home.png" width="200"/> | <img src="preview/days.png" width="200"/> | <img src="preview/searched.png" width="200"/> |<img src="preview/no_location.png" width="200"/>
 
-
+The location displayed on the home page is the default location of the emulator (Pixel 7 Pro API 28) used.
 ## 📕 Project Context
 
 * This project was primarily a learning exercise aimed at enhancing my Flutter and Dart skills. Consequently, the code may not represent the best possible
