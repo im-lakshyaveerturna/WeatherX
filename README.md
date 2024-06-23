@@ -1,5 +1,5 @@
 <h1 align="center">
-  <strong>WeatherX</strong>
+  <strong><code>WeatherX</code></strong>
 </h1>
 
 <p align="center">
