@@ -41,6 +41,6 @@ The location displayed on the home page is the default location of the emulator 
 
 * This project was primarily a learning exercise aimed at enhancing my Flutter and Dart skills. Consequently, the code may not represent the best possible
   implementation of the app.
-
+* Any suggestions regarding the appearance or funtionality of the application will be much appreciated.
 ##
 [Licensed by MIT](https://github.com/im-lakshyaveerturna/WeatherX/blob/main/LICENSE)
