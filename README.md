@@ -26,8 +26,8 @@ for a given day.
 
 ## 📡 APIs Used
 
-* [Visual Crossing](https://www.visualcrossing.com/)
-* [Boundaries-io](https://rapidapi.com/VanitySoft/api/boundaries-io-1)
+* <code>[Visual Crossing](https://www.visualcrossing.com/)</code>
+* <code>[Boundaries-io](https://rapidapi.com/VanitySoft/api/boundaries-io-1)</code>
 
   
 ## 👁️ Preview
