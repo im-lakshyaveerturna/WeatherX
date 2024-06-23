@@ -26,7 +26,7 @@ for a given day.
 
 Home Page             |               Change Dates                |               Change Locations               | No Result Page
 :-------------------:|:-----------------------------------------:|:--------------------------------------------:|:----------------------:
-<img src="preview/home.png" width="200"/> | <img src="preview/days.png" width="200"/> | <img src="review/searched.png" width="200"/> |
+<img src="preview/home.png" width="200"/> | <img src="preview/days.png" width="200"/> | <img src="preview/searched.png" width="200"/> |<img src="preview/no_result.png" width="200"/>
 
 
 ## 📕 Project Context
