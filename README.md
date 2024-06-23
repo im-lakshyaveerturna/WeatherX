@@ -17,9 +17,17 @@
 
 * **Search Functionality**: Easily search for weather data of specific locations using the integrated search bar.
 
+* **Future Predictions**: Provides an option to switch the date to any of the coming 15 dates, and displays the weather data
+  of that specific date.
+
 * **Comprehensive Weather Information**: Provides detailed information including current temperature, daily minimum and maximum temperatures,
 feels-like temperature, wind-speed, probability of precipitation, humidity in the air, sunrise and sunset timings at the current/searched location
 for a given day.
+
+## 📡 APIs Used
+
+* [Visual Crossing](https://www.visualcrossing.com/)
+* [Boundaries-io](https://rapidapi.com/VanitySoft/api/boundaries-io-1)
 
   
 ## 👁️ Preview
