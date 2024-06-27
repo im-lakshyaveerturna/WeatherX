@@ -21,14 +21,14 @@
 
 ## 📌 Key Features
 
-* **Current Weather**: Displays accurate weather data of your current location on the home page.
+* **Current Weather**: Displays accurate weather data of your <code>current location</code> on the home page.
 
-* **Search Functionality**: Easily search for weather data of specific locations using the integrated search bar.
+* **Search Functionality**: Easily search for weather data of specific locations using the <code>integrated search bar</code>.
 
-* **Future Predictions**: Provides an option to switch the date to any of the coming 15 dates, and displays the weather data
+* **Future Predictions**: Provides an option to <code>switch the date</code> to any of the coming 15 dates, and displays the weather data
   of that specific date.
 
-* **Comprehensive Weather Information**: Provides detailed information including current temperature, daily minimum and maximum temperatures,
+* **Comprehensive Weather Information**: Provides <code>detailed information</code> including current temperature, daily minimum and maximum temperatures,
 feels-like temperature, wind-speed, probability of precipitation, humidity in the air, sunrise and sunset timings at the current/searched location
 of a given day.
 
