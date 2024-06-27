@@ -34,7 +34,7 @@ class _HomeState extends State<Home> {
     await location.fetchData();
     try {
       print(location.currentLocation);
-      await weatherData.getValue('delhi');
+      await weatherData.getValue(location.currentLocation);
       setState(() {
         currentData = weatherData.weatherInfo;
         isLoading = false;
